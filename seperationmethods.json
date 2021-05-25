@@ -1,0 +1,53 @@
+[
+    {
+        "title": "filtering",
+        "content" : "When filtering, a sieve with specific sized holes is used. With a filter, you can remove solid particles from a liquid. The particles in the liquid that are larger than the filter holes remain in the filter. \nWhat remains is called the residue. \nThe substances that are collected in the flask under the filter are called the filtrate.\n Filtration is often used to separate a suspension.",
+        "questionMark" :
+        { "title" : "Suspension" ,
+            "body" : "A suspension is a mixture of a liquid with solid particles suspended therein, such as orange juice."}
+        ,
+        "examples" :  ["- A particulate filter in a diesel car removes particles from the exhaust gas.", "-    Filtering is used in the purification of water. The dirty water passes through several filters. Each one has holes of a different size to remove most pollutants." ]
+    },
+    {
+        "title": "Settling and Pouring",
+        "content": "You use gravity to settle. The substance with the highest density will slowly sink under gravity. The lighter material will then be at the top of, and the heavier material at the bottom of the object. Then you can, for example, pour the lightest or let the bottom one drain via a tap.",
+        "questionMark": {
+            "title": "Density",
+            "body": "The amount of mass in a given volume of an object or substance"
+        },
+        "examples": [ "- By pouring, you can get the wine in a carafe. What remains in the bottle is called the sediment. It consists of sediment consisting of solids from the wine that have settled down, and there have become stuck together."]
+    },
+    {
+        "title": "Centrifugation",
+        "content": "In centrifugation, a suspension or emulsion is placed in a rapidly rotating machine, called a centrifuge. The substance with the highest density is thrown out.",
+        "questionMark": {
+            "title": "Emulsion",
+            "body": "An emulsion is a mixture of two immiscible liquids, which often creates two distinct layers in the liquid. An example is oil in water."
+        },
+        "examples": [
+        "- In hospital laboratories, centrifugation is used to separate blood into blood plasma and red blood cells." ]
+    },
+    {
+        "title": "Evaporating",
+        "content": "Separation by evaporation uses the difference in the boiling point of 2 substances. For instance, if you have a bowl of saltwater and want the salt, heat the water until it boils. The water will then evaporate, but the salt will not because it has a higher boiling point. You are then left with a bowl of salt.",
+        "questionMark": {
+            "title": "Boiling point",
+            "body": "The temperature at which a substance boils. With water, it is 100 degrees Celsius"
+        },
+        "examples": [ ]
+    },
+    {
+        "title": "Distilling",
+        "content": "During distillation, the substances are separated because the substances have a difference in boiling point. The substance with a lower boiling point evaporates earlier. The liquid that remains is called the residue. The distilled substance can be collected (because the substance cools down again), and we call this the distillate. You do this, for example, when you boil seawater to get freshwater: the water evaporates and can be collected. The distillate is then freshwater. The salt remains and is called the residue.",
+        "questionMark": {
+            "title": "Boiling point",
+            "body": "The temperature at which a substance boils. With water, it is 100 degrees Celsius"
+        },
+        "examples": []
+    }
+]
+ 
+ 
+ 
+ 
+ 
